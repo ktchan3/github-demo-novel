@@ -1,3 +1,7 @@
+================
+CHAPTER 2
+================
+
 -Debugging
 In development Outline outputs simple logging to the console, prefixed by categories. In production it outputs JSON logs, these can be easily parsed by your preferred log ingestion pipeline.
 
