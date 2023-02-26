@@ -1,2 +1,12 @@
 Chapter 1
-- We meet Nick, Tom, Daisy, and Jordan
+- We meet Nick, Tom, Daisy, and jordan
+
+-Translation into other languages
+
+-Issues with good first issue label
+
+-Performance improvements, both on server and frontend
+
+-Developer happiness and documentation
+
+-Bugs and other issues listed on GitHub
