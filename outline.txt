@@ -1,5 +1,5 @@
 Chapter 1
-- We meet Nick, Tom, Daisy, and jordan
+-We meet Nick, Tom, Daisy, and jordan
 
 -Translation into other Languages
 
@@ -10,4 +10,5 @@ Chapter 2
 
 -Developer happiness and documentation
 
--Bugs and other issues listed on GitHub
+-Bugs and other issues listed on GitsHub
+
