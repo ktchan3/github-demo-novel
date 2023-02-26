@@ -5,6 +5,7 @@ Chapter 1
 
 -Issues with good first issue label
 
+Chapter 2
 -Performance improvements, both on server and frontend
 
 -Developer happiness and documentation
