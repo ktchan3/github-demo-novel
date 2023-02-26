@@ -1,7 +1,7 @@
 Chapter 1
 - We meet Nick, Tom, Daisy, and jordan
 
--Translation into other languages
+-Translation into other Languages
 
 -Issues with good first issue label
 
